@@ -1,0 +1,20 @@
+{
+  "TaskParentChildPairs": [
+    {
+      "ParentTask": "Vision Statement",
+      "ChildTask": "Mission Statement"
+    },
+    {
+      "ParentTask": "Mission Statement",
+      "ChildTask": "Funding"
+    },
+    {
+      "ParentTask": "Requirements Gathering",
+      "ChildTask": "Analysis"
+    },
+    {
+      "ParentTask": "Requirements Gathering",
+      "ChildTask": "Initial Estimate"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "TaskSequenceArray": [
+    [
+      "Requirements Gathering",
+      "Vision Statement"
+    ],
+    [
+      "Mission Statement",
+      "Initial Estimate",
+      "Analysis"
+    ],
+    [
+      "Funding"
+    ]
+  ]
+}

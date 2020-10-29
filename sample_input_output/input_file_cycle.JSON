@@ -1,0 +1,96 @@
+{
+  "TaskParentChildPairs": [
+    {
+      "ParentTask": "Vision Statement",
+      "ChildTask": "Mission Statement"
+    },
+    {
+      "ParentTask": "Mission Statement",
+      "ChildTask": "Funding"
+    },
+    {
+      "ParentTask": "Requirements Gathering",
+      "ChildTask": "Analysis"
+    },
+    {
+      "ParentTask": "Requirements Gathering",
+      "ChildTask": "Initial Estimate"
+    },
+    {
+      "ParentTask": "Analysis",
+      "ChildTask": "Revised Estimate"
+    },
+    {
+      "ParentTask": "Funding",
+      "ChildTask": "Staffing"
+    },
+    {
+      "ParentTask": "Analysis",
+      "ChildTask": "Staffing"
+    },
+    {
+      "ParentTask": "Staffing",
+      "ChildTask": "Requirements Gathering"
+    },
+    {
+      "ParentTask": "Interaction Design",
+      "ChildTask": "Programming"
+    },
+    {
+      "ParentTask": "Algorithm Design",
+      "ChildTask": "Programming"
+    },
+    {
+      "ParentTask": "System Architecture",
+      "ChildTask": "Programming"
+    },
+    {
+      "ParentTask": "Analysis",
+      "ChildTask": "Interaction Design"
+    },
+    {
+      "ParentTask": "System Architecture",
+      "ChildTask": "Database Development"
+    },
+    {
+      "ParentTask": "Programming",
+      "ChildTask": "Unit testing"
+    },
+    {
+      "ParentTask": "Analysis",
+      "ChildTask": "Algorithm Design"
+    },
+    {
+      "ParentTask": "Analysis",
+      "ChildTask": "System Architecture"
+    },
+    {
+      "ParentTask": "Unit testing",
+      "ChildTask": "Integration testing"
+    },
+    {
+      "ParentTask": "Integration testing",
+      "ChildTask": "QA Testing"
+    },
+    {
+      "ParentTask": "Deployment",
+      "ChildTask": "Ongoing Enhancement"
+    },
+    {
+      "ParentTask": "QA Testing",
+      "ChildTask": "Beta Testing"
+    },
+    {
+      "ParentTask": "Beta Testing",
+      "ChildTask": "Deployment"
+    },
+    {
+      "ParentTask": "Deployment",
+      "ChildTask": "Support"
+    },
+    {
+      "ParentTask": "Deployment",
+      "ChildTask": "ROI Evaluation"
+    }
+  ]
+}

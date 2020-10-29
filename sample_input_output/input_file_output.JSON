@@ -1,0 +1,53 @@
+{
+  "TaskSequenceArray": [
+    [
+      "Vision Statement"
+    ],
+    [
+      "Mission Statement"
+    ],
+    [
+      "Funding"
+    ],
+    [
+      "Staffing"
+    ],
+    [
+      "Requirements Gathering"
+    ],
+    [
+      "Initial Estimate",
+      "Analysis"
+    ],
+    [
+      "System Architecture",
+      "Algorithm Design",
+      "Interaction Design",
+      "Revised Estimate"
+    ],
+    [
+      "Programming",
+      "Database Development"
+    ],
+    [
+      "Unit testing"
+    ],
+    [
+      "Integration testing"
+    ],
+    [
+      "QA Testing"
+    ],
+    [
+      "Beta Testing"
+    ],
+    [
+      "Deployment"
+    ],
+    [
+      "ROI Evaluation",
+      "Support",
+      "Ongoing Enhancement"
+    ]
+  ]
+}

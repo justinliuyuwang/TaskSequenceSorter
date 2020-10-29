@@ -1,0 +1,15 @@
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\TaskSequenceSorter.exe
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.csprojAssemblyReference.cache
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.AssemblyInfoInputs.cache
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.AssemblyInfo.cs
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\TaskSequenceSorter.deps.json
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\TaskSequenceSorter.runtimeconfig.json
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\TaskSequenceSorter.runtimeconfig.dev.json
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\TaskSequenceSorter.dll
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\TaskSequenceSorter.pdb
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.csproj.CopyComplete
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.dll
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.pdb
+C:\Users\j\source\repos\TaskSequenceSorter\TaskSequenceSorter\obj\Debug\netcoreapp3.1\TaskSequenceSorter.genruntimeconfig.cache

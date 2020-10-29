@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ooni5rLmTeg9b4wigNtSx3UhhV280lp08Etk3fz5F0je1OqgmGjpjdOmIsSFXqMELd+0DTWXJI7bLbsgWLpytQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j\\source\\repos\\TaskSequenceSorter\\TaskSequenceSorter\\TaskSequenceSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="tasksequencesorter">TaskSequenceSorter</h1>
+<p>TaskSequenceSorter outputs a JSON file containing a sorted sequence of tasks based on dependencies detailed in a user-provided JSON file.  The program uses a modified version of Kahn’s algorithm on a directed graph to find the appropriate order of tasks.</p>
+<h1 id="getting-started">Getting Started</h1>
+<h2 id="run-tasksequencesorter.exe">Run TaskSequenceSorter.exe</h2>
+<p>From the main <em>TaskSequenceSorter</em> directory, go to <em>TaskSequenceSorter\bin\Release\netcoreapp3.1\publish</em> and run <strong>TaskSequenceSorter.exe</strong>.</p>
+<h2 id="input-file-path">Input File Path</h2>
+<p>The console will prompt you for a full file path to the JSON input file containing your task dependencies.</p>
+<h2 id="output">Output</h2>
+<p>Your output file will be in the same folder as your input file.</p>
+<h2 id="sample-input-file">Sample Input File</h2>
+<blockquote>
+<p>{<br>
+“TaskParentChildPairs”: [<br>
+{<br>
+“ParentTask”: “Vision Statement”,<br>
+“ChildTask”: “Mission Statement”<br>
+},<br>
+{<br>
+“ParentTask”: “Mission Statement”,<br>
+“ChildTask”: “Funding”<br>
+},<br>
+{<br>
+“ParentTask”: “Requirements Gathering”,<br>
+“ChildTask”: “Analysis”<br>
+},<br>
+{<br>
+“ParentTask”: “Requirements Gathering”,<br>
+“ChildTask”: “Initial Estimate”<br>
+}<br>
+]<br>
+}</p>
+</blockquote>
+<h2 id="sample-output-file">Sample Output File</h2>
+<blockquote>
+<p>{<br>
+“TaskSequenceArray”: [<br>
+[<br>
+“Vision Statement”,<br>
+“Requirements Gathering”<br>
+],<br>
+[<br>
+“Mission Statement”,<br>
+“Analysis”,<br>
+“Initial Estimate”<br>
+],<br>
+[<br>
+“Funding”<br>
+]<br>
+]<br>
+}</p>
+</blockquote>
+<h1 id="important-files">Important Files</h1>
+<p><strong>Published console application</strong> can be found in:</p>
+<blockquote>
+<p><em>TaskSequenceSorter\TaskSequenceSorter\bin\Release\netcoreapp3.1\publish</em></p>
+</blockquote>
+<p><strong>Source files (.cs)</strong> can be found in:</p>
+<blockquote>
+<p><em>TaskSequenceSorter\TaskSequenceSorter</em></p>
+</blockquote>
+<p><strong>Sample inputs/outputs</strong> can be found in:</p>
+<blockquote>
+<p><em>TaskSequenceSorter\sample_input_output</em></p>
+</blockquote>
+</div>
+</body>
+
+</html>
